@@ -1,0 +1,2 @@
+# notkontrolbotu
+NOT KONTROL BOTU
