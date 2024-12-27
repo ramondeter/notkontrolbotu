@@ -4,6 +4,7 @@ NOT KONTROL ETME BOTU ve PYTHON İLE MAİL ATMA BOTU
 Merhaba arkadaşlar ilgili video serisini izlemediyseniz:
 
 https://youtu.be/H0tmPzGe61I
+https://youtu.be/j9MOt3_SS9M
 
 NASIL KULLANILIR:
 
